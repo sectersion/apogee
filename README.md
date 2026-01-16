@@ -21,6 +21,10 @@ The LASA High Altitude Experiment
 - Will request grant from Austin Amateur Radio Club and if that doesn't work out we will do more research
 ## Description
 
+### Parts List
+
+[Add parts to this spreadsheet](https://docs.google.com/spreadsheets/d/1-7JBppP0bKLcYyYU2GBuSgVxe5AWH9nrM8h0tzuybcA/edit?gid=0#gid=0)
+
 ### Feature List
 - camera
 - Meshtastic node (RAK or similar)
