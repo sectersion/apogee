@@ -21,6 +21,11 @@ The LASA High Altitude Experiment
 - Will request grant from Austin Amateur Radio Club and if that doesn't work out we will do more research
 ## Description
 
+### Feature List
+- camera
+- Meshtastic node (RAK or similar)
+- APRS radio equipment
+- power system with LiPo battery
 ### Flight info:
 - 25km-35km for good line of sight, 30km better if we're trying to beat 200mi
 - Flight time of 2-3 hours (~1.5 burst time)
