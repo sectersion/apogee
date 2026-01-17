@@ -1,0 +1,6 @@
+[submodule "LHAE/libraries/RPi_Hat_Template"]
+	path = LHAE/libraries/RPi_Hat_Template
+	url = https://github.com/devbisme/RPi_Hat_Template
+[submodule "LHAE_PCB/libraries/RPi_Hat_Template"]
+	path = LHAE_PCB/libraries/RPi_Hat_Template
+	url = https://github.com/devbisme/RPi_Hat_Template
